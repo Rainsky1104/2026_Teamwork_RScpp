@@ -1,0 +1,38 @@
+[
+{
+  "directory": "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DRS_WITH_GDAL=1 -DRS_WITH_OPENCV=1 -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/RemoteSensingQtStarter.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\RemoteSensingQtStarter.dir\\RemoteSensingQtStarter_autogen\\mocs_compilation.cpp.obj -c D:\\Vscode_doc\\Teamwork_rs\\RemoteSensingQtStarter\\build\\RemoteSensingQtStarter_autogen\\mocs_compilation.cpp",
+  "file": "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/RemoteSensingQtStarter_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/RemoteSensingQtStarter.dir/RemoteSensingQtStarter_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DRS_WITH_GDAL=1 -DRS_WITH_OPENCV=1 -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/RemoteSensingQtStarter.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\RemoteSensingQtStarter.dir\\src\\main.cpp.obj -c D:\\Vscode_doc\\Teamwork_rs\\RemoteSensingQtStarter\\src\\main.cpp",
+  "file": "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/src/main.cpp",
+  "output": "CMakeFiles/RemoteSensingQtStarter.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DRS_WITH_GDAL=1 -DRS_WITH_OPENCV=1 -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/RemoteSensingQtStarter.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\RemoteSensingQtStarter.dir\\src\\MainWindow.cpp.obj -c D:\\Vscode_doc\\Teamwork_rs\\RemoteSensingQtStarter\\src\\MainWindow.cpp",
+  "file": "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/src/MainWindow.cpp",
+  "output": "CMakeFiles/RemoteSensingQtStarter.dir/src/MainWindow.cpp.obj"
+},
+{
+  "directory": "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DRS_WITH_GDAL=1 -DRS_WITH_OPENCV=1 -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/RemoteSensingQtStarter.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\RemoteSensingQtStarter.dir\\src\\Algorithms.cpp.obj -c D:\\Vscode_doc\\Teamwork_rs\\RemoteSensingQtStarter\\src\\Algorithms.cpp",
+  "file": "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/src/Algorithms.cpp",
+  "output": "CMakeFiles/RemoteSensingQtStarter.dir/src/Algorithms.cpp.obj"
+},
+{
+  "directory": "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DRS_WITH_GDAL=1 -DRS_WITH_OPENCV=1 -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/RemoteSensingQtStarter.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\RemoteSensingQtStarter.dir\\src\\RasterIO.cpp.obj -c D:\\Vscode_doc\\Teamwork_rs\\RemoteSensingQtStarter\\src\\RasterIO.cpp",
+  "file": "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/src/RasterIO.cpp",
+  "output": "CMakeFiles/RemoteSensingQtStarter.dir/src/RasterIO.cpp.obj"
+},
+{
+  "directory": "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DRS_WITH_GDAL=1 -DRS_WITH_OPENCV=1 -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/RemoteSensingQtStarter.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\RemoteSensingQtStarter.dir\\src\\RasterRenderDialog.cpp.obj -c D:\\Vscode_doc\\Teamwork_rs\\RemoteSensingQtStarter\\src\\RasterRenderDialog.cpp",
+  "file": "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/src/RasterRenderDialog.cpp",
+  "output": "CMakeFiles/RemoteSensingQtStarter.dir/src/RasterRenderDialog.cpp.obj"
+}
+]
