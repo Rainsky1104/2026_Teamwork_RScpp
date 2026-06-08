@@ -18,7 +18,8 @@ else()
     set(QT_PACKAGE Qt5)
 endif()
 
-find_package(OpenCV QUIET COMPONENTS core imgproc features2d calib3d)
+# 关键修改：OpenCV 设为 REQUIRED，并添加 stitching 组件
+find_package(OpenCV REQUIRED COMPONENTS core imgproc features2d calib3d stitching)
 find_package(GDAL QUIET)
 
 add_executable(RemoteSensingQtStarter WIN32
@@ -40,6 +41,7 @@ add_executable(RemoteSensingQtStarter WIN32
 target_include_directories(RemoteSensingQtStarter PRIVATE include)
 target_link_libraries(RemoteSensingQtStarter PRIVATE ${QT_PACKAGE}::Widgets)
 
+# OpenCV 链接（会自动包含所有已找到的组件库）
 if(OpenCV_FOUND)
     target_compile_definitions(RemoteSensingQtStarter PRIVATE RS_WITH_OPENCV=1)
     target_link_libraries(RemoteSensingQtStarter PRIVATE ${OpenCV_LIBS})

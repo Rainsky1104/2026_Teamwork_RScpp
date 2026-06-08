@@ -118,11 +118,14 @@ public:
     std::array<double, 6> geoTransform() const { return geoTransform_; }
     void setGeoTransform(const std::array<double, 6>& transform) { geoTransform_ = transform; }
     QString summary() const override { return QStringLiteral("%1 x %2 DEM").arg(width_).arg(height_); }
+    QString projection() const { return projection_; }
+    void setProjection(QString proj) { projection_ = std::move(proj); }
 
 private:
     int width_ {};
     int height_ {};
     QVector<float> elevations_;
+    QString projection_;
     QString sourceRasterPath_;
     std::array<double, 6> geoTransform_ {0.0, 1.0, 0.0, 0.0, 0.0, -1.0};
 };
