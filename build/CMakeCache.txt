@@ -315,6 +315,12 @@ Qt6GuiTools_DIR:PATH=C:/msys64/ucrt64/lib/cmake/Qt6GuiTools
 //The directory containing a CMake configuration file for Qt6Gui.
 Qt6Gui_DIR:PATH=C:/msys64/ucrt64/lib/cmake/Qt6Gui
 
+//The directory containing a CMake configuration file for Qt6OpenGLWidgets.
+Qt6OpenGLWidgets_DIR:PATH=C:/msys64/ucrt64/lib/cmake/Qt6OpenGLWidgets
+
+//The directory containing a CMake configuration file for Qt6OpenGL.
+Qt6OpenGL_DIR:PATH=C:/msys64/ucrt64/lib/cmake/Qt6OpenGL
+
 //The directory containing a CMake configuration file for Qt6WidgetsTools.
 Qt6WidgetsTools_DIR:PATH=C:/msys64/ucrt64/lib/cmake/Qt6WidgetsTools
 
@@ -527,6 +533,14 @@ CMAKE_STRIP-ADVANCED:INTERNAL=1
 CMAKE_TAPI-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_VERBOSE_MAKEFILE
 CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
+//Details about finding OpenCV
+FIND_PACKAGE_MESSAGE_DETAILS_OpenCV:INTERNAL=[C:/msys64/ucrt64][found components: core imgproc features2d calib3d stitching ][v4.13.0()]
+//Details about finding Threads
+FIND_PACKAGE_MESSAGE_DETAILS_Threads:INTERNAL=[TRUE][v()]
+//Details about finding WrapAtomic
+FIND_PACKAGE_MESSAGE_DETAILS_WrapAtomic:INTERNAL=[1][v()]
+//Details about finding WrapVulkanHeaders
+FIND_PACKAGE_MESSAGE_DETAILS_WrapVulkanHeaders:INTERNAL=[C:/msys64/ucrt64/include][v()]
 //ADVANCED property for variable: GDAL_INCLUDE_DIR
 GDAL_INCLUDE_DIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: GDAL_LIBRARY

@@ -1490,8 +1490,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-4pm9gu"
-      binary: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-4pm9gu"
+      source: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-83yaxt"
+      binary: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-83yaxt"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -1502,13 +1502,13 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-4pm9gu'
+        Change Dir: 'D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-83yaxt'
         
-        Run Build Command(s): C:/msys64/ucrt64/bin/cmake.exe -E env VERBOSE=1 C:/msys64/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_a1117/fast
-        C:/msys64/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_a1117.dir\\build.make CMakeFiles/cmTC_a1117.dir/build
-        mingw32-make[1]: Entering directory 'D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-4pm9gu'
-        Building CXX object CMakeFiles/cmTC_a1117.dir/CMakeCXXCompilerABI.cpp.obj
-        C:\\msys64\\ucrt64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_a1117.dir\\CMakeCXXCompilerABI.cpp.obj -c C:\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCXXCompilerABI.cpp
+        Run Build Command(s): C:/msys64/ucrt64/bin/cmake.exe -E env VERBOSE=1 C:/msys64/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_f3c08/fast
+        C:/msys64/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_f3c08.dir\\build.make CMakeFiles/cmTC_f3c08.dir/build
+        mingw32-make[1]: Entering directory 'D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-83yaxt'
+        Building CXX object CMakeFiles/cmTC_f3c08.dir/CMakeCXXCompilerABI.cpp.obj
+        C:\\msys64\\ucrt64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_f3c08.dir\\CMakeCXXCompilerABI.cpp.obj -c C:\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCXXCompilerABI.cpp
         Using built-in specs.
         COLLECT_GCC=C:\\msys64\\ucrt64\\bin\\g++.exe
         Target: x86_64-w64-mingw32
@@ -1516,8 +1516,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 16.1.0 (Rev2, Built by MSYS2 project) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_a1117.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_a1117.dir\\'
-         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/cc1plus.exe -quiet -v -iprefix C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/ -D_REENTRANT C:\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_a1117.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\ccwR16Vu.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_f3c08.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_f3c08.dir\\'
+         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/cc1plus.exe -quiet -v -iprefix C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/ -D_REENTRANT C:\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_f3c08.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\ccsxdIK5.s
         GNU C++20 (Rev2, Built by MSYS2 project) version 16.1.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 16.1.0, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.4.1, isl version isl-0.27-GMP
         
@@ -1541,14 +1541,14 @@ events:
          C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/include-fixed
         End of search list.
         Compiler executable checksum: 185f0ad921cbc1dbaa6bfcad21bce51c
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_a1117.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_a1117.dir\\'
-         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_a1117.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\ccwR16Vu.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_f3c08.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_f3c08.dir\\'
+         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_f3c08.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\ccsxdIK5.s
         GNU assembler version 2.46 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.46
         COMPILER_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_a1117.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_a1117.dir\\CMakeCXXCompilerABI.cpp.'
-        Linking CXX executable cmTC_a1117.exe
-        C:\\msys64\\ucrt64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_a1117.dir\\link.txt --verbose=1
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_f3c08.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_f3c08.dir\\CMakeCXXCompilerABI.cpp.'
+        Linking CXX executable cmTC_f3c08.exe
+        C:\\msys64\\ucrt64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_f3c08.dir\\link.txt --verbose=1
         Using built-in specs.
         COLLECT_GCC=C:\\msys64\\ucrt64\\bin\\g++.exe
         COLLECT_LTO_WRAPPER=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe
@@ -1559,16 +1559,16 @@ events:
         gcc version 16.1.0 (Rev2, Built by MSYS2 project) 
         COMPILER_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_a1117.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_a1117.'
-         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\ccqEIgUP.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_a1117.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_a1117.dir/objects.a --no-whole-archive --out-implib libcmTC_a1117.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f3c08.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_f3c08.'
+         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\cc1CQrfj.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_f3c08.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_f3c08.dir/objects.a --no-whole-archive --out-implib libcmTC_f3c08.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o
         collect2 version 16.1.0
-        C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\ccqEIgUP.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_a1117.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_a1117.dir/objects.a --no-whole-archive --out-implib libcmTC_a1117.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o
+        C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\cc1CQrfj.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_f3c08.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_f3c08.dir/objects.a --no-whole-archive --out-implib libcmTC_f3c08.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o
         GNU ld (GNU Binutils) 2.46
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_a1117.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_a1117.'
-        C:\\msys64\\ucrt64\\bin\\cmake.exe -E rm -f CMakeFiles\\cmTC_a1117.dir/objects.a
-        C:\\msys64\\ucrt64\\bin\\ar.exe qc CMakeFiles\\cmTC_a1117.dir/objects.a @CMakeFiles\\cmTC_a1117.dir\\objects1.rsp
-        C:\\msys64\\ucrt64\\bin\\g++.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_a1117.dir/objects.a -Wl,--no-whole-archive -o cmTC_a1117.exe -Wl,--out-implib,libcmTC_a1117.dll.a -Wl,--major-image-version,0,--minor-image-version,0
-        mingw32-make[1]: Leaving directory 'D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-4pm9gu'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f3c08.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_f3c08.'
+        C:\\msys64\\ucrt64\\bin\\cmake.exe -E rm -f CMakeFiles\\cmTC_f3c08.dir/objects.a
+        C:\\msys64\\ucrt64\\bin\\ar.exe qc CMakeFiles\\cmTC_f3c08.dir/objects.a @CMakeFiles\\cmTC_f3c08.dir\\objects1.rsp
+        C:\\msys64\\ucrt64\\bin\\g++.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_f3c08.dir/objects.a -Wl,--no-whole-archive -o cmTC_f3c08.exe -Wl,--out-implib,libcmTC_f3c08.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+        mingw32-make[1]: Leaving directory 'D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-83yaxt'
         
       exitCode: 0
   -
@@ -1607,13 +1607,13 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-4pm9gu']
+        ignore line: [Change Dir: 'D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-83yaxt']
         ignore line: []
-        ignore line: [Run Build Command(s): C:/msys64/ucrt64/bin/cmake.exe -E env VERBOSE=1 C:/msys64/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_a1117/fast]
-        ignore line: [C:/msys64/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_a1117.dir\\build.make CMakeFiles/cmTC_a1117.dir/build]
-        ignore line: [mingw32-make[1]: Entering directory 'D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-4pm9gu']
-        ignore line: [Building CXX object CMakeFiles/cmTC_a1117.dir/CMakeCXXCompilerABI.cpp.obj]
-        ignore line: [C:\\msys64\\ucrt64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_a1117.dir\\CMakeCXXCompilerABI.cpp.obj -c C:\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s): C:/msys64/ucrt64/bin/cmake.exe -E env VERBOSE=1 C:/msys64/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_f3c08/fast]
+        ignore line: [C:/msys64/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_f3c08.dir\\build.make CMakeFiles/cmTC_f3c08.dir/build]
+        ignore line: [mingw32-make[1]: Entering directory 'D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-83yaxt']
+        ignore line: [Building CXX object CMakeFiles/cmTC_f3c08.dir/CMakeCXXCompilerABI.cpp.obj]
+        ignore line: [C:\\msys64\\ucrt64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_f3c08.dir\\CMakeCXXCompilerABI.cpp.obj -c C:\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCXXCompilerABI.cpp]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\msys64\\ucrt64\\bin\\g++.exe]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -1621,8 +1621,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 16.1.0 (Rev2  Built by MSYS2 project) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_a1117.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_a1117.dir\\']
-        ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/cc1plus.exe -quiet -v -iprefix C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/ -D_REENTRANT C:\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_a1117.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\ccwR16Vu.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_f3c08.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_f3c08.dir\\']
+        ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/cc1plus.exe -quiet -v -iprefix C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/ -D_REENTRANT C:\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_f3c08.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\ccsxdIK5.s]
         ignore line: [GNU C++20 (Rev2  Built by MSYS2 project) version 16.1.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 16.1.0  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.4.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -1646,8 +1646,8 @@ events:
         ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/include-fixed]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 185f0ad921cbc1dbaa6bfcad21bce51c]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_a1117.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_a1117.dir\\']
-        ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_a1117.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\ccwR16Vu.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_f3c08.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_f3c08.dir\\']
+        ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_f3c08.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\ccsxdIK5.s]
         ignore line: [GNU assembler version 2.46 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.46]
         ignore line: [COMPILER_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/]
@@ -1658,9 +1658,9 @@ events:
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_a1117.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_a1117.dir\\CMakeCXXCompilerABI.cpp.']
-        ignore line: [Linking CXX executable cmTC_a1117.exe]
-        ignore line: [C:\\msys64\\ucrt64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_a1117.dir\\link.txt --verbose=1]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_f3c08.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_f3c08.dir\\CMakeCXXCompilerABI.cpp.']
+        ignore line: [Linking CXX executable cmTC_f3c08.exe]
+        ignore line: [C:\\msys64\\ucrt64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_f3c08.dir\\link.txt --verbose=1]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\msys64\\ucrt64\\bin\\g++.exe]
         ignore line: [COLLECT_LTO_WRAPPER=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe]
@@ -1678,13 +1678,13 @@ events:
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_a1117.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_a1117.']
-        link line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\ccqEIgUP.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_a1117.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_a1117.dir/objects.a --no-whole-archive --out-implib libcmTC_a1117.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f3c08.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_f3c08.']
+        link line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\cc1CQrfj.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_f3c08.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_f3c08.dir/objects.a --no-whole-archive --out-implib libcmTC_f3c08.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe] ==> ignore
           arg [-plugin] ==> ignore
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll] ==> ignore
           arg [-plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe] ==> ignore
-          arg [-plugin-opt=-fresolution=C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\ccqEIgUP.res] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\cc1CQrfj.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
@@ -1706,7 +1706,7 @@ events:
           arg [i386pep] ==> ignore
           arg [-Bdynamic] ==> search dynamic
           arg [-o] ==> ignore
-          arg [cmTC_a1117.exe] ==> ignore
+          arg [cmTC_f3c08.exe] ==> ignore
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o] ==> obj [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o]
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o] ==> obj [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o]
           arg [-LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0] ==> dir [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0]
@@ -1717,10 +1717,10 @@ events:
           arg [-LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../..] ==> dir [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../..]
           arg [-v] ==> ignore
           arg [--whole-archive] ==> ignore
-          arg [CMakeFiles\\cmTC_a1117.dir/objects.a] ==> ignore
+          arg [CMakeFiles\\cmTC_f3c08.dir/objects.a] ==> ignore
           arg [--no-whole-archive] ==> ignore
           arg [--out-implib] ==> ignore
-          arg [libcmTC_a1117.dll.a] ==> ignore
+          arg [libcmTC_f3c08.dll.a] ==> ignore
           arg [--major-image-version] ==> ignore
           arg [0] ==> ignore
           arg [--minor-image-version] ==> ignore
@@ -1746,7 +1746,7 @@ events:
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o] ==> obj [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o]
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o] ==> obj [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
         ignore line: [collect2 version 16.1.0]
-        ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\ccqEIgUP.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_a1117.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_a1117.dir/objects.a --no-whole-archive --out-implib libcmTC_a1117.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
+        ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\cc1CQrfj.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_f3c08.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_f3c08.dir/objects.a --no-whole-archive --out-implib libcmTC_f3c08.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
         linker tool for 'CXX': C:/msys64/ucrt64/x86_64-w64-mingw32/bin/ld.exe
         remove lib [msvcrt]
         remove lib [msvcrt]
@@ -1788,10 +1788,12 @@ events:
       - "C:/msys64/ucrt64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:36 (find_dependency)"
       - "C:/msys64/ucrt64/lib/cmake/Qt6/Qt6Dependencies.cmake:38 (_qt_internal_find_third_party_dependencies)"
       - "C:/msys64/ucrt64/lib/cmake/Qt6/Qt6Config.cmake:185 (include)"
-      - "CMakeLists.txt:12 (find_package)"
+      - "CMakeLists.txt:13 (find_package)"
+    checks:
+      - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-lrylqm"
-      binary: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-lrylqm"
+      source: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-m8tyg1"
+      binary: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-m8tyg1"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -1802,32 +1804,72 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: 'D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-lrylqm'
+        Change Dir: 'D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-m8tyg1'
         
-        Run Build Command(s): C:/msys64/ucrt64/bin/cmake.exe -E env VERBOSE=1 C:/msys64/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_c4bbd/fast
-        C:/msys64/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_c4bbd.dir\\build.make CMakeFiles/cmTC_c4bbd.dir/build
-        mingw32-make[1]: Entering directory 'D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-lrylqm'
-        Building CXX object CMakeFiles/cmTC_c4bbd.dir/src.cxx.obj
-        C:\\msys64\\ucrt64\\bin\\g++.exe -DCMAKE_HAVE_LIBC_PTHREAD  -std=gnu++17 -o CMakeFiles\\cmTC_c4bbd.dir\\src.cxx.obj -c D:\\Vscode_doc\\Teamwork_rs\\RemoteSensingQtStarter\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lrylqm\\src.cxx
-        Linking CXX executable cmTC_c4bbd.exe
-        C:\\msys64\\ucrt64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_c4bbd.dir\\link.txt --verbose=1
-        C:\\msys64\\ucrt64\\bin\\cmake.exe -E rm -f CMakeFiles\\cmTC_c4bbd.dir/objects.a
-        C:\\msys64\\ucrt64\\bin\\ar.exe qc CMakeFiles\\cmTC_c4bbd.dir/objects.a @CMakeFiles\\cmTC_c4bbd.dir\\objects1.rsp
-        C:\\msys64\\ucrt64\\bin\\g++.exe -Wl,--whole-archive CMakeFiles\\cmTC_c4bbd.dir/objects.a -Wl,--no-whole-archive -o cmTC_c4bbd.exe -Wl,--out-implib,libcmTC_c4bbd.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_c4bbd.dir\\linkLibs.rsp
-        mingw32-make[1]: Leaving directory 'D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-lrylqm'
+        Run Build Command(s): C:/msys64/ucrt64/bin/cmake.exe -E env VERBOSE=1 C:/msys64/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_858f3/fast
+        C:/msys64/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_858f3.dir\\build.make CMakeFiles/cmTC_858f3.dir/build
+        mingw32-make[1]: Entering directory 'D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-m8tyg1'
+        Building CXX object CMakeFiles/cmTC_858f3.dir/src.cxx.obj
+        C:\\msys64\\ucrt64\\bin\\g++.exe -DCMAKE_HAVE_LIBC_PTHREAD  -std=gnu++17 -o CMakeFiles\\cmTC_858f3.dir\\src.cxx.obj -c D:\\Vscode_doc\\Teamwork_rs\\RemoteSensingQtStarter\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m8tyg1\\src.cxx
+        Linking CXX executable cmTC_858f3.exe
+        C:\\msys64\\ucrt64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_858f3.dir\\link.txt --verbose=1
+        C:\\msys64\\ucrt64\\bin\\cmake.exe -E rm -f CMakeFiles\\cmTC_858f3.dir/objects.a
+        C:\\msys64\\ucrt64\\bin\\ar.exe qc CMakeFiles\\cmTC_858f3.dir/objects.a @CMakeFiles\\cmTC_858f3.dir\\objects1.rsp
+        C:\\msys64\\ucrt64\\bin\\g++.exe -Wl,--whole-archive CMakeFiles\\cmTC_858f3.dir/objects.a -Wl,--no-whole-archive -o cmTC_858f3.exe -Wl,--out-implib,libcmTC_858f3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_858f3.dir\\linkLibs.rsp
+        mingw32-make[1]: Leaving directory 'D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-m8tyg1'
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/msys64/ucrt64/share/cmake/Modules/Internal/CheckSourceCompiles.cmake:104 (try_compile)"
+      - "C:/msys64/ucrt64/share/cmake/Modules/CheckCXXSourceCompiles.cmake:103 (cmake_check_source_compiles)"
+      - "C:/msys64/ucrt64/lib/cmake/Qt6/FindWrapAtomic.cmake:36 (check_cxx_source_compiles)"
+      - "C:/msys64/ucrt64/share/cmake/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
+      - "C:/msys64/ucrt64/share/cmake/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
+      - "C:/msys64/ucrt64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:36 (find_dependency)"
+      - "C:/msys64/ucrt64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake:36 (_qt_internal_find_third_party_dependencies)"
+      - "C:/msys64/ucrt64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake:42 (include)"
+      - "C:/msys64/ucrt64/lib/cmake/Qt6/Qt6Config.cmake:246 (find_package)"
+      - "CMakeLists.txt:13 (find_package)"
+    checks:
+      - "Performing Test HAVE_STDATOMIC"
+    directories:
+      source: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-1ia37k"
+      binary: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-1ia37k"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: "-g"
+      CMAKE_CXX_STDLIB_MODULES_JSON: ""
+      CMAKE_EXE_LINKER_FLAGS: ""
+      CMAKE_MODULE_PATH: "C:/msys64/ucrt64/lib/cmake/Qt6;C:/msys64/ucrt64/lib/cmake/Qt6/3rdparty/extra-cmake-modules/find-modules;C:/msys64/ucrt64/lib/cmake/Qt6/3rdparty/kwin"
+    buildResult:
+      variable: "HAVE_STDATOMIC"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-1ia37k'
+        
+        Run Build Command(s): C:/msys64/ucrt64/bin/cmake.exe -E env VERBOSE=1 C:/msys64/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_3f323/fast
+        C:/msys64/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_3f323.dir\\build.make CMakeFiles/cmTC_3f323.dir/build
+        mingw32-make[1]: Entering directory 'D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-1ia37k'
+        Building CXX object CMakeFiles/cmTC_3f323.dir/src.cxx.obj
+        C:\\msys64\\ucrt64\\bin\\g++.exe -DHAVE_STDATOMIC  -std=gnu++17 -o CMakeFiles\\cmTC_3f323.dir\\src.cxx.obj -c D:\\Vscode_doc\\Teamwork_rs\\RemoteSensingQtStarter\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1ia37k\\src.cxx
+        Linking CXX executable cmTC_3f323.exe
+        C:\\msys64\\ucrt64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_3f323.dir\\link.txt --verbose=1
+        C:\\msys64\\ucrt64\\bin\\cmake.exe -E rm -f CMakeFiles\\cmTC_3f323.dir/objects.a
+        C:\\msys64\\ucrt64\\bin\\ar.exe qc CMakeFiles\\cmTC_3f323.dir/objects.a @CMakeFiles\\cmTC_3f323.dir\\objects1.rsp
+        C:\\msys64\\ucrt64\\bin\\g++.exe -Wl,--whole-archive CMakeFiles\\cmTC_3f323.dir/objects.a -Wl,--no-whole-archive -o cmTC_3f323.exe -Wl,--out-implib,libcmTC_3f323.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_3f323.dir\\linkLibs.rsp
+        mingw32-make[1]: Leaving directory 'D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-1ia37k'
         
       exitCode: 0
   -
     kind: "find_package-v1"
     backtrace:
       - "C:/msys64/ucrt64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:100 (find_package)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsDependencies.cmake:14 (_qt_internal_find_tool_dependencies)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfig.cmake:36 (include)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:100 (find_package)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:42 (_qt_internal_find_tool_dependencies)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:40 (include)"
+      - "C:/msys64/ucrt64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake:43 (_qt_internal_find_tool_dependencies)"
+      - "C:/msys64/ucrt64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake:42 (include)"
       - "C:/msys64/ucrt64/lib/cmake/Qt6/Qt6Config.cmake:246 (find_package)"
-      - "CMakeLists.txt:12 (find_package)"
+      - "CMakeLists.txt:13 (find_package)"
     name: "Qt6CoreTools"
     configs:
       -
@@ -1848,14 +1890,14 @@ events:
       exact: false
     settings:
       required: "optional"
-      quiet: true
+      quiet: false
       global: false
       policy_scope: true
       bypass_provider: false
       names:
         - "Qt6CoreTools"
       search_paths:
-        - "C:/msys64/ucrt64/lib/cmake/Qt6WidgetsTools/.."
+        - "C:/msys64/ucrt64/lib/cmake/Qt6Core/.."
         - "C:/msys64/ucrt64/lib/cmake"
       path_suffixes:
         - ""
@@ -1957,6 +1999,341 @@ events:
   -
     kind: "find_package-v1"
     backtrace:
+      - "C:/msys64/ucrt64/share/cmake/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
+      - "C:/msys64/ucrt64/share/cmake/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
+      - "C:/msys64/ucrt64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
+      - "C:/msys64/ucrt64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake:51 (_qt_internal_find_qt_dependencies)"
+      - "C:/msys64/ucrt64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake:42 (include)"
+      - "C:/msys64/ucrt64/lib/cmake/Qt6/Qt6Config.cmake:246 (find_package)"
+      - "CMakeLists.txt:13 (find_package)"
+    name: "Qt6EntryPointPrivate"
+    configs:
+      -
+        filename: "Qt6EntryPointPrivate.cps"
+        kind: "cps"
+      -
+        filename: "qt6entrypointprivate.cps"
+        kind: "cps"
+      -
+        filename: "Qt6EntryPointPrivateConfig.cmake"
+        kind: "cmake"
+      -
+        filename: "qt6entrypointprivate-config.cmake"
+        kind: "cmake"
+    version_request:
+      version: "6.11.0"
+      version_complete: "6.11.0"
+      exact: false
+    settings:
+      required: "optional"
+      quiet: false
+      global: false
+      policy_scope: true
+      bypass_provider: false
+      names:
+        - "Qt6EntryPointPrivate"
+      search_paths:
+        - "C:/msys64/ucrt64/lib/cmake/Qt6Core/.."
+        - "C:/msys64/ucrt64/lib/cmake"
+      path_suffixes:
+        - ""
+      paths:
+        CMAKE_FIND_USE_CMAKE_PATH: false
+        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+        CMAKE_FIND_USE_INSTALL_PREFIX: true
+        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
+        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
+        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
+        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
+    candidates:
+      -
+        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/Qt6EntryPointPrivateConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/qt6entrypointprivate-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/lib/cps/Qt6EntryPointPrivate.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/lib/cps/qt6entrypointprivate.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/share/cps/Qt6EntryPointPrivate.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/share/cps/qt6entrypointprivate.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/msys64/ucrt64/lib/cmake/Qt6EntryPointPrivateConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/msys64/ucrt64/lib/cmake/qt6entrypointprivate-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+    found:
+      path: "C:/msys64/ucrt64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfig.cmake"
+      mode: "config"
+      version: "6.11.0"
+    search_context:
+      CMAKE_PREFIX_PATH:
+        - "C:/msys64/ucrt64"
+      ENV{PATH}:
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:\\msys64\\usr\\bin"
+        - "C:/Windows/system32"
+        - "C:\\Windows"
+        - "C:/Windows/System32/Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:/Windows/System32/OpenSSH/"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+        - "D:\\Git\\cmd"
+        - "D:/Python/Scripts/"
+        - "D:\\Python\\"
+        - "C:/Users/Administrator/AppData/Local/Programs/Python/Launcher/"
+        - "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:/Users/Administrator/AppData/Local/Python/bin"
+        - "D:\\Microsoft VS Code\\bin"
+        - "D:/SnapAny/bin"
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:/Program Files/MySQL/MySQL Server 8.0/bin"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/RemoteSensingQtStarter"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/msys64/ucrt64"
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/msys64/ucrt64"
+        - "C:/Program Files (x86)/RemoteSensingQtStarter"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/msys64/ucrt64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:3166 (find_program)"
+      - "C:/msys64/ucrt64/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake:30 (_qt_internal_setup_deploy_support)"
+      - "C:/msys64/ucrt64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake:194 (include)"
+      - "C:/msys64/ucrt64/lib/cmake/Qt6/Qt6Config.cmake:246 (find_package)"
+      - "CMakeLists.txt:13 (find_package)"
+    mode: "program"
+    variable: "WINDEPLOYQT_EXECUTABLE"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "windeployqt"
+    candidate_directories:
+      - "C:/msys64/ucrt64/bin/"
+      - "C:/msys64/ucrt64/sbin/"
+      - "C:/msys64/ucrt64/"
+      - "C:/msys64/ucrt64/bin/"
+      - "C:/msys64/usr/bin/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "D:/Git/cmd/"
+      - "D:/Python/Scripts/"
+      - "D:/Python/"
+      - "C:/Users/Administrator/AppData/Local/Programs/Python/Launcher/"
+      - "C:/Users/Administrator/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/Administrator/AppData/Local/Python/bin/"
+      - "D:/Microsoft VS Code/bin/"
+      - "D:/SnapAny/bin/"
+      - "C:/Program Files/MySQL/MySQL Server 8.0/bin/"
+      - "C:/Program Files/bin/"
+      - "C:/Program Files/sbin/"
+      - "C:/Program Files/"
+      - "C:/Program Files (x86)/bin/"
+      - "C:/Program Files (x86)/sbin/"
+      - "C:/Program Files (x86)/"
+      - "C:/Program Files (x86)/RemoteSensingQtStarter/bin/"
+      - "C:/Program Files (x86)/RemoteSensingQtStarter/sbin/"
+      - "C:/Program Files (x86)/RemoteSensingQtStarter/"
+    searched_directories:
+      - "C:/msys64/ucrt64/bin/windeployqt.com"
+    found: "C:/msys64/ucrt64/bin/windeployqt.exe"
+    search_context:
+      CMAKE_PREFIX_PATH:
+        - "C:/msys64/ucrt64"
+      ENV{PATH}:
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:\\msys64\\usr\\bin"
+        - "C:/Windows/system32"
+        - "C:\\Windows"
+        - "C:/Windows/System32/Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:/Windows/System32/OpenSSH/"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+        - "D:\\Git\\cmd"
+        - "D:/Python/Scripts/"
+        - "D:\\Python\\"
+        - "C:/Users/Administrator/AppData/Local/Programs/Python/Launcher/"
+        - "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:/Users/Administrator/AppData/Local/Python/bin"
+        - "D:\\Microsoft VS Code\\bin"
+        - "D:/SnapAny/bin"
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:/Program Files/MySQL/MySQL Server 8.0/bin"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/RemoteSensingQtStarter"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/msys64/ucrt64"
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/msys64/ucrt64"
+        - "C:/Program Files (x86)/RemoteSensingQtStarter"
+  -
+    kind: "find_package-v1"
+    backtrace:
+      - "C:/msys64/ucrt64/lib/cmake/Qt6/Qt6Config.cmake:246 (find_package)"
+      - "CMakeLists.txt:13 (find_package)"
+    name: "Qt6Core"
+    configs:
+      -
+        filename: "Qt6Core.cps"
+        kind: "cps"
+      -
+        filename: "qt6core.cps"
+        kind: "cps"
+      -
+        filename: "Qt6CoreConfig.cmake"
+        kind: "cmake"
+      -
+        filename: "qt6core-config.cmake"
+        kind: "cmake"
+    version_request:
+      exact: false
+    settings:
+      required: "optional"
+      quiet: false
+      global: false
+      policy_scope: true
+      bypass_provider: false
+      names:
+        - "Qt6Core"
+      search_paths:
+        - "C:/msys64/ucrt64/lib/cmake"
+      path_suffixes:
+        - ""
+      paths:
+        CMAKE_FIND_USE_CMAKE_PATH: false
+        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+        CMAKE_FIND_USE_INSTALL_PREFIX: true
+        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
+        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
+        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
+        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
+    candidates:
+      -
+        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/Qt6CoreConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/qt6core-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/lib/cps/Qt6Core.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/lib/cps/qt6core.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/share/cps/Qt6Core.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/share/cps/qt6core.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/msys64/ucrt64/lib/cmake/Qt6CoreConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/msys64/ucrt64/lib/cmake/qt6core-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/msys64/ucrt64/lib/cmake/Qt6CoreTools/Qt6CoreConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/msys64/ucrt64/lib/cmake/Qt6CoreTools/qt6core-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/msys64/ucrt64/lib/cmake/Qt6CorePrivate/Qt6CoreConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/msys64/ucrt64/lib/cmake/Qt6CorePrivate/qt6core-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+    found:
+      path: "C:/msys64/ucrt64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake"
+      mode: "config"
+      version: "6.11.0"
+    search_context:
+      CMAKE_PREFIX_PATH:
+        - "C:/msys64/ucrt64"
+      ENV{PATH}:
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:\\msys64\\usr\\bin"
+        - "C:/Windows/system32"
+        - "C:\\Windows"
+        - "C:/Windows/System32/Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:/Windows/System32/OpenSSH/"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+        - "D:\\Git\\cmd"
+        - "D:/Python/Scripts/"
+        - "D:\\Python\\"
+        - "C:/Users/Administrator/AppData/Local/Programs/Python/Launcher/"
+        - "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:/Users/Administrator/AppData/Local/Python/bin"
+        - "D:\\Microsoft VS Code\\bin"
+        - "D:/SnapAny/bin"
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:/Program Files/MySQL/MySQL Server 8.0/bin"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/RemoteSensingQtStarter"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/msys64/ucrt64"
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/msys64/ucrt64"
+        - "C:/Program Files (x86)/RemoteSensingQtStarter"
+  -
+    kind: "find_package-v1"
+    backtrace:
       - "C:/msys64/ucrt64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:100 (find_package)"
       - "C:/msys64/ucrt64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsDependencies.cmake:14 (_qt_internal_find_tool_dependencies)"
       - "C:/msys64/ucrt64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfig.cmake:36 (include)"
@@ -1964,7 +2341,7 @@ events:
       - "C:/msys64/ucrt64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:42 (_qt_internal_find_tool_dependencies)"
       - "C:/msys64/ucrt64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:40 (include)"
       - "C:/msys64/ucrt64/lib/cmake/Qt6/Qt6Config.cmake:246 (find_package)"
-      - "CMakeLists.txt:12 (find_package)"
+      - "CMakeLists.txt:13 (find_package)"
     name: "Qt6GuiTools"
     configs:
       -
@@ -1985,7 +2362,7 @@ events:
       exact: false
     settings:
       required: "optional"
-      quiet: true
+      quiet: false
       global: false
       policy_scope: true
       bypass_provider: false
@@ -2098,7 +2475,7 @@ events:
       - "C:/msys64/ucrt64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:42 (_qt_internal_find_tool_dependencies)"
       - "C:/msys64/ucrt64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:40 (include)"
       - "C:/msys64/ucrt64/lib/cmake/Qt6/Qt6Config.cmake:246 (find_package)"
-      - "CMakeLists.txt:12 (find_package)"
+      - "CMakeLists.txt:13 (find_package)"
     name: "Qt6WidgetsTools"
     configs:
       -
@@ -2119,7 +2496,7 @@ events:
       exact: false
     settings:
       required: "optional"
-      quiet: true
+      quiet: false
       global: false
       policy_scope: true
       bypass_provider: false
@@ -2226,407 +2603,6 @@ events:
         - "C:/msys64/ucrt64"
         - "C:/Program Files (x86)/RemoteSensingQtStarter"
   -
-    kind: "try_compile-v1"
-    backtrace:
-      - "C:/msys64/ucrt64/share/cmake/Modules/Internal/CheckSourceCompiles.cmake:104 (try_compile)"
-      - "C:/msys64/ucrt64/share/cmake/Modules/CheckCXXSourceCompiles.cmake:103 (cmake_check_source_compiles)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6/FindWrapAtomic.cmake:36 (check_cxx_source_compiles)"
-      - "C:/msys64/ucrt64/share/cmake/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
-      - "C:/msys64/ucrt64/share/cmake/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:36 (find_dependency)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake:36 (_qt_internal_find_third_party_dependencies)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake:42 (include)"
-      - "C:/msys64/ucrt64/share/cmake/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
-      - "C:/msys64/ucrt64/share/cmake/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:40 (include)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6/Qt6Config.cmake:246 (find_package)"
-      - "CMakeLists.txt:12 (find_package)"
-    checks:
-      - "Performing Test HAVE_STDATOMIC"
-    directories:
-      source: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-fps5t1"
-      binary: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-fps5t1"
-    cmakeVariables:
-      CMAKE_CXX_FLAGS: ""
-      CMAKE_CXX_FLAGS_DEBUG: "-g"
-      CMAKE_CXX_STDLIB_MODULES_JSON: ""
-      CMAKE_EXE_LINKER_FLAGS: ""
-      CMAKE_MODULE_PATH: "C:/msys64/ucrt64/lib/cmake/Qt6;C:/msys64/ucrt64/lib/cmake/Qt6/3rdparty/extra-cmake-modules/find-modules;C:/msys64/ucrt64/lib/cmake/Qt6/3rdparty/kwin"
-    buildResult:
-      variable: "HAVE_STDATOMIC"
-      cached: true
-      stdout: |
-        Change Dir: 'D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-fps5t1'
-        
-        Run Build Command(s): C:/msys64/ucrt64/bin/cmake.exe -E env VERBOSE=1 C:/msys64/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_f981f/fast
-        C:/msys64/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_f981f.dir\\build.make CMakeFiles/cmTC_f981f.dir/build
-        mingw32-make[1]: Entering directory 'D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-fps5t1'
-        Building CXX object CMakeFiles/cmTC_f981f.dir/src.cxx.obj
-        C:\\msys64\\ucrt64\\bin\\g++.exe -DHAVE_STDATOMIC  -std=gnu++17 -o CMakeFiles\\cmTC_f981f.dir\\src.cxx.obj -c D:\\Vscode_doc\\Teamwork_rs\\RemoteSensingQtStarter\\build\\CMakeFiles\\CMakeScratch\\TryCompile-fps5t1\\src.cxx
-        Linking CXX executable cmTC_f981f.exe
-        C:\\msys64\\ucrt64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_f981f.dir\\link.txt --verbose=1
-        C:\\msys64\\ucrt64\\bin\\cmake.exe -E rm -f CMakeFiles\\cmTC_f981f.dir/objects.a
-        C:\\msys64\\ucrt64\\bin\\ar.exe qc CMakeFiles\\cmTC_f981f.dir/objects.a @CMakeFiles\\cmTC_f981f.dir\\objects1.rsp
-        C:\\msys64\\ucrt64\\bin\\g++.exe -Wl,--whole-archive CMakeFiles\\cmTC_f981f.dir/objects.a -Wl,--no-whole-archive -o cmTC_f981f.exe -Wl,--out-implib,libcmTC_f981f.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_f981f.dir\\linkLibs.rsp
-        mingw32-make[1]: Leaving directory 'D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/CMakeScratch/TryCompile-fps5t1'
-        
-      exitCode: 0
-  -
-    kind: "find_package-v1"
-    backtrace:
-      - "C:/msys64/ucrt64/share/cmake/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
-      - "C:/msys64/ucrt64/share/cmake/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake:51 (_qt_internal_find_qt_dependencies)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake:42 (include)"
-      - "C:/msys64/ucrt64/share/cmake/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
-      - "C:/msys64/ucrt64/share/cmake/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:40 (include)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6/Qt6Config.cmake:246 (find_package)"
-      - "CMakeLists.txt:12 (find_package)"
-    name: "Qt6EntryPointPrivate"
-    configs:
-      -
-        filename: "Qt6EntryPointPrivate.cps"
-        kind: "cps"
-      -
-        filename: "qt6entrypointprivate.cps"
-        kind: "cps"
-      -
-        filename: "Qt6EntryPointPrivateConfig.cmake"
-        kind: "cmake"
-      -
-        filename: "qt6entrypointprivate-config.cmake"
-        kind: "cmake"
-    version_request:
-      version: "6.11.0"
-      version_complete: "6.11.0"
-      exact: false
-    settings:
-      required: "optional"
-      quiet: true
-      global: false
-      policy_scope: true
-      bypass_provider: false
-      names:
-        - "Qt6EntryPointPrivate"
-      search_paths:
-        - "C:/msys64/ucrt64/lib/cmake/Qt6Core/.."
-        - "C:/msys64/ucrt64/lib/cmake"
-      path_suffixes:
-        - ""
-      paths:
-        CMAKE_FIND_USE_CMAKE_PATH: false
-        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
-        CMAKE_FIND_USE_INSTALL_PREFIX: true
-        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
-        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
-        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
-        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
-    candidates:
-      -
-        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/Qt6EntryPointPrivateConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/qt6entrypointprivate-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/lib/cps/Qt6EntryPointPrivate.cps"
-        mode: "cps"
-        reason: "no_exist"
-      -
-        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/lib/cps/qt6entrypointprivate.cps"
-        mode: "cps"
-        reason: "no_exist"
-      -
-        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/share/cps/Qt6EntryPointPrivate.cps"
-        mode: "cps"
-        reason: "no_exist"
-      -
-        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/share/cps/qt6entrypointprivate.cps"
-        mode: "cps"
-        reason: "no_exist"
-      -
-        path: "C:/msys64/ucrt64/lib/cmake/Qt6EntryPointPrivateConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/msys64/ucrt64/lib/cmake/qt6entrypointprivate-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-    found:
-      path: "C:/msys64/ucrt64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfig.cmake"
-      mode: "config"
-      version: "6.11.0"
-    search_context:
-      CMAKE_PREFIX_PATH:
-        - "C:/msys64/ucrt64"
-      ENV{PATH}:
-        - "C:\\msys64\\ucrt64\\bin"
-        - "C:\\msys64\\ucrt64\\bin"
-        - "C:\\msys64\\ucrt64\\bin"
-        - "C:\\msys64\\usr\\bin"
-        - "C:/Windows/system32"
-        - "C:\\Windows"
-        - "C:/Windows/System32/Wbem"
-        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
-        - "C:/Windows/System32/OpenSSH/"
-        - "C:\\Program Files\\dotnet\\"
-        - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
-        - "D:\\Git\\cmd"
-        - "D:/Python/Scripts/"
-        - "D:\\Python\\"
-        - "C:/Users/Administrator/AppData/Local/Programs/Python/Launcher/"
-        - "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\WindowsApps"
-        - "C:/Users/Administrator/AppData/Local/Python/bin"
-        - "D:\\Microsoft VS Code\\bin"
-        - "D:/SnapAny/bin"
-        - "C:\\msys64\\ucrt64\\bin"
-        - "C:/Program Files/MySQL/MySQL Server 8.0/bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/RemoteSensingQtStarter"
-      CMAKE_SYSTEM_PREFIX_PATH:
-        - "C:/msys64/ucrt64"
-        - "C:/Program Files"
-        - "C:/Program Files (x86)"
-        - "C:/msys64/ucrt64"
-        - "C:/Program Files (x86)/RemoteSensingQtStarter"
-  -
-    kind: "find-v1"
-    backtrace:
-      - "C:/msys64/ucrt64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:3166 (find_program)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake:30 (_qt_internal_setup_deploy_support)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake:194 (include)"
-      - "C:/msys64/ucrt64/share/cmake/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
-      - "C:/msys64/ucrt64/share/cmake/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:40 (include)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6/Qt6Config.cmake:246 (find_package)"
-      - "CMakeLists.txt:12 (find_package)"
-    mode: "program"
-    variable: "WINDEPLOYQT_EXECUTABLE"
-    description: "Path to a program."
-    settings:
-      SearchFramework: "NEVER"
-      SearchAppBundle: "NEVER"
-      CMAKE_FIND_USE_CMAKE_PATH: true
-      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
-      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
-      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
-      CMAKE_FIND_USE_INSTALL_PREFIX: true
-    names:
-      - "windeployqt"
-    candidate_directories:
-      - "C:/msys64/ucrt64/bin/"
-      - "C:/msys64/ucrt64/sbin/"
-      - "C:/msys64/ucrt64/"
-      - "C:/msys64/ucrt64/bin/"
-      - "C:/msys64/usr/bin/"
-      - "C:/Windows/System32/"
-      - "C:/Windows/"
-      - "C:/Windows/System32/wbem/"
-      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
-      - "C:/Windows/System32/OpenSSH/"
-      - "C:/Program Files/dotnet/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
-      - "D:/Git/cmd/"
-      - "D:/Python/Scripts/"
-      - "D:/Python/"
-      - "C:/Users/Administrator/AppData/Local/Programs/Python/Launcher/"
-      - "C:/Users/Administrator/AppData/Local/Microsoft/WindowsApps/"
-      - "C:/Users/Administrator/AppData/Local/Python/bin/"
-      - "D:/Microsoft VS Code/bin/"
-      - "D:/SnapAny/bin/"
-      - "C:/Program Files/MySQL/MySQL Server 8.0/bin/"
-      - "C:/Program Files/bin/"
-      - "C:/Program Files/sbin/"
-      - "C:/Program Files/"
-      - "C:/Program Files (x86)/bin/"
-      - "C:/Program Files (x86)/sbin/"
-      - "C:/Program Files (x86)/"
-      - "C:/Program Files (x86)/RemoteSensingQtStarter/bin/"
-      - "C:/Program Files (x86)/RemoteSensingQtStarter/sbin/"
-      - "C:/Program Files (x86)/RemoteSensingQtStarter/"
-    searched_directories:
-      - "C:/msys64/ucrt64/bin/windeployqt.com"
-    found: "C:/msys64/ucrt64/bin/windeployqt.exe"
-    search_context:
-      CMAKE_PREFIX_PATH:
-        - "C:/msys64/ucrt64"
-      ENV{PATH}:
-        - "C:\\msys64\\ucrt64\\bin"
-        - "C:\\msys64\\ucrt64\\bin"
-        - "C:\\msys64\\ucrt64\\bin"
-        - "C:\\msys64\\usr\\bin"
-        - "C:/Windows/system32"
-        - "C:\\Windows"
-        - "C:/Windows/System32/Wbem"
-        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
-        - "C:/Windows/System32/OpenSSH/"
-        - "C:\\Program Files\\dotnet\\"
-        - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
-        - "D:\\Git\\cmd"
-        - "D:/Python/Scripts/"
-        - "D:\\Python\\"
-        - "C:/Users/Administrator/AppData/Local/Programs/Python/Launcher/"
-        - "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\WindowsApps"
-        - "C:/Users/Administrator/AppData/Local/Python/bin"
-        - "D:\\Microsoft VS Code\\bin"
-        - "D:/SnapAny/bin"
-        - "C:\\msys64\\ucrt64\\bin"
-        - "C:/Program Files/MySQL/MySQL Server 8.0/bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/RemoteSensingQtStarter"
-      CMAKE_SYSTEM_PREFIX_PATH:
-        - "C:/msys64/ucrt64"
-        - "C:/Program Files"
-        - "C:/Program Files (x86)"
-        - "C:/msys64/ucrt64"
-        - "C:/Program Files (x86)/RemoteSensingQtStarter"
-  -
-    kind: "find_package-v1"
-    backtrace:
-      - "C:/msys64/ucrt64/share/cmake/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
-      - "C:/msys64/ucrt64/share/cmake/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:40 (include)"
-      - "C:/msys64/ucrt64/lib/cmake/Qt6/Qt6Config.cmake:246 (find_package)"
-      - "CMakeLists.txt:12 (find_package)"
-    name: "Qt6Core"
-    configs:
-      -
-        filename: "Qt6Core.cps"
-        kind: "cps"
-      -
-        filename: "qt6core.cps"
-        kind: "cps"
-      -
-        filename: "Qt6CoreConfig.cmake"
-        kind: "cmake"
-      -
-        filename: "qt6core-config.cmake"
-        kind: "cmake"
-    version_request:
-      version: "6.11.0"
-      version_complete: "6.11.0"
-      exact: false
-    settings:
-      required: "optional"
-      quiet: true
-      global: false
-      policy_scope: true
-      bypass_provider: false
-      names:
-        - "Qt6Core"
-      search_paths:
-        - "C:/msys64/ucrt64/lib/cmake/Qt6Widgets/.."
-        - "C:/msys64/ucrt64/lib/cmake"
-      path_suffixes:
-        - ""
-      paths:
-        CMAKE_FIND_USE_CMAKE_PATH: false
-        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
-        CMAKE_FIND_USE_INSTALL_PREFIX: true
-        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
-        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
-        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
-        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
-    candidates:
-      -
-        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/Qt6CoreConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/qt6core-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/lib/cps/Qt6Core.cps"
-        mode: "cps"
-        reason: "no_exist"
-      -
-        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/lib/cps/qt6core.cps"
-        mode: "cps"
-        reason: "no_exist"
-      -
-        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/share/cps/Qt6Core.cps"
-        mode: "cps"
-        reason: "no_exist"
-      -
-        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/share/cps/qt6core.cps"
-        mode: "cps"
-        reason: "no_exist"
-      -
-        path: "C:/msys64/ucrt64/lib/cmake/Qt6CoreConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/msys64/ucrt64/lib/cmake/qt6core-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/msys64/ucrt64/lib/cmake/Qt6CoreTools/Qt6CoreConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/msys64/ucrt64/lib/cmake/Qt6CoreTools/qt6core-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/msys64/ucrt64/lib/cmake/Qt6CorePrivate/Qt6CoreConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/msys64/ucrt64/lib/cmake/Qt6CorePrivate/qt6core-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-    found:
-      path: "C:/msys64/ucrt64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake"
-      mode: "config"
-      version: "6.11.0"
-    search_context:
-      CMAKE_PREFIX_PATH:
-        - "C:/msys64/ucrt64"
-      ENV{PATH}:
-        - "C:\\msys64\\ucrt64\\bin"
-        - "C:\\msys64\\ucrt64\\bin"
-        - "C:\\msys64\\ucrt64\\bin"
-        - "C:\\msys64\\usr\\bin"
-        - "C:/Windows/system32"
-        - "C:\\Windows"
-        - "C:/Windows/System32/Wbem"
-        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
-        - "C:/Windows/System32/OpenSSH/"
-        - "C:\\Program Files\\dotnet\\"
-        - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
-        - "D:\\Git\\cmd"
-        - "D:/Python/Scripts/"
-        - "D:\\Python\\"
-        - "C:/Users/Administrator/AppData/Local/Programs/Python/Launcher/"
-        - "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\WindowsApps"
-        - "C:/Users/Administrator/AppData/Local/Python/bin"
-        - "D:\\Microsoft VS Code\\bin"
-        - "D:/SnapAny/bin"
-        - "C:\\msys64\\ucrt64\\bin"
-        - "C:/Program Files/MySQL/MySQL Server 8.0/bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/RemoteSensingQtStarter"
-      CMAKE_SYSTEM_PREFIX_PATH:
-        - "C:/msys64/ucrt64"
-        - "C:/Program Files"
-        - "C:/Program Files (x86)"
-        - "C:/msys64/ucrt64"
-        - "C:/Program Files (x86)/RemoteSensingQtStarter"
-  -
     kind: "find-v1"
     backtrace:
       - "C:/msys64/ucrt64/share/cmake/Modules/FindVulkan.cmake:409 (find_path)"
@@ -2640,7 +2616,7 @@ events:
       - "C:/msys64/ucrt64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
       - "C:/msys64/ucrt64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:40 (include)"
       - "C:/msys64/ucrt64/lib/cmake/Qt6/Qt6Config.cmake:246 (find_package)"
-      - "CMakeLists.txt:12 (find_package)"
+      - "CMakeLists.txt:13 (find_package)"
     mode: "path"
     variable: "Vulkan_INCLUDE_DIR"
     description: "Path to a file."
@@ -2728,7 +2704,7 @@ events:
       - "C:/msys64/ucrt64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
       - "C:/msys64/ucrt64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:40 (include)"
       - "C:/msys64/ucrt64/lib/cmake/Qt6/Qt6Config.cmake:246 (find_package)"
-      - "CMakeLists.txt:12 (find_package)"
+      - "CMakeLists.txt:13 (find_package)"
     mode: "library"
     variable: "Vulkan_LIBRARY"
     description: "Path to a library."
@@ -2822,7 +2798,7 @@ events:
       - "C:/msys64/ucrt64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
       - "C:/msys64/ucrt64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:40 (include)"
       - "C:/msys64/ucrt64/lib/cmake/Qt6/Qt6Config.cmake:246 (find_package)"
-      - "CMakeLists.txt:12 (find_package)"
+      - "CMakeLists.txt:13 (find_package)"
     mode: "program"
     variable: "Vulkan_GLSLC_EXECUTABLE"
     description: "Path to a program."
@@ -2916,7 +2892,7 @@ events:
       - "C:/msys64/ucrt64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
       - "C:/msys64/ucrt64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:40 (include)"
       - "C:/msys64/ucrt64/lib/cmake/Qt6/Qt6Config.cmake:246 (find_package)"
-      - "CMakeLists.txt:12 (find_package)"
+      - "CMakeLists.txt:13 (find_package)"
     mode: "program"
     variable: "Vulkan_GLSLANG_VALIDATOR_EXECUTABLE"
     description: "Path to a program."
@@ -3005,7 +2981,7 @@ events:
       - "C:/msys64/ucrt64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
       - "C:/msys64/ucrt64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:40 (include)"
       - "C:/msys64/ucrt64/lib/cmake/Qt6/Qt6Config.cmake:246 (find_package)"
-      - "CMakeLists.txt:12 (find_package)"
+      - "CMakeLists.txt:13 (find_package)"
     name: "Qt6Gui"
     configs:
       -
@@ -3026,7 +3002,7 @@ events:
       exact: false
     settings:
       required: "optional"
-      quiet: true
+      quiet: false
       global: false
       policy_scope: true
       bypass_provider: false
@@ -3136,7 +3112,7 @@ events:
     kind: "find_package-v1"
     backtrace:
       - "C:/msys64/ucrt64/lib/cmake/Qt6/Qt6Config.cmake:246 (find_package)"
-      - "CMakeLists.txt:12 (find_package)"
+      - "CMakeLists.txt:13 (find_package)"
     name: "Qt6Widgets"
     configs:
       -
@@ -3155,7 +3131,7 @@ events:
       exact: false
     settings:
       required: "optional"
-      quiet: true
+      quiet: false
       global: false
       policy_scope: true
       bypass_provider: false
@@ -3263,11 +3239,267 @@ events:
   -
     kind: "find_package-v1"
     backtrace:
-      - "CMakeLists.txt:12 (find_package)"
+      - "C:/msys64/ucrt64/share/cmake/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
+      - "C:/msys64/ucrt64/share/cmake/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
+      - "C:/msys64/ucrt64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
+      - "C:/msys64/ucrt64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
+      - "C:/msys64/ucrt64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsConfig.cmake:40 (include)"
+      - "C:/msys64/ucrt64/lib/cmake/Qt6/Qt6Config.cmake:246 (find_package)"
+      - "CMakeLists.txt:13 (find_package)"
+    name: "Qt6OpenGL"
+    configs:
+      -
+        filename: "Qt6OpenGL.cps"
+        kind: "cps"
+      -
+        filename: "qt6opengl.cps"
+        kind: "cps"
+      -
+        filename: "Qt6OpenGLConfig.cmake"
+        kind: "cmake"
+      -
+        filename: "qt6opengl-config.cmake"
+        kind: "cmake"
+    version_request:
+      version: "6.11.0"
+      version_complete: "6.11.0"
+      exact: false
+    settings:
+      required: "optional"
+      quiet: false
+      global: false
+      policy_scope: true
+      bypass_provider: false
+      names:
+        - "Qt6OpenGL"
+      search_paths:
+        - "C:/msys64/ucrt64/lib/cmake/Qt6OpenGLWidgets/.."
+        - "C:/msys64/ucrt64/lib/cmake"
+      path_suffixes:
+        - ""
+      paths:
+        CMAKE_FIND_USE_CMAKE_PATH: false
+        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+        CMAKE_FIND_USE_INSTALL_PREFIX: true
+        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
+        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
+        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
+        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
+    candidates:
+      -
+        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/Qt6OpenGLConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/qt6opengl-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/lib/cps/Qt6OpenGL.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/lib/cps/qt6opengl.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/share/cps/Qt6OpenGL.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/share/cps/qt6opengl.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/msys64/ucrt64/lib/cmake/Qt6OpenGLConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/msys64/ucrt64/lib/cmake/qt6opengl-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/msys64/ucrt64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/msys64/ucrt64/lib/cmake/Qt6OpenGLWidgets/qt6opengl-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/msys64/ucrt64/lib/cmake/Qt6OpenGLPrivate/Qt6OpenGLConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/msys64/ucrt64/lib/cmake/Qt6OpenGLPrivate/qt6opengl-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+    found:
+      path: "C:/msys64/ucrt64/lib/cmake/Qt6OpenGL/Qt6OpenGLConfig.cmake"
+      mode: "config"
+      version: "6.11.0"
+    search_context:
+      CMAKE_PREFIX_PATH:
+        - "C:/msys64/ucrt64"
+      ENV{PATH}:
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:\\msys64\\usr\\bin"
+        - "C:/Windows/system32"
+        - "C:\\Windows"
+        - "C:/Windows/System32/Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:/Windows/System32/OpenSSH/"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+        - "D:\\Git\\cmd"
+        - "D:/Python/Scripts/"
+        - "D:\\Python\\"
+        - "C:/Users/Administrator/AppData/Local/Programs/Python/Launcher/"
+        - "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:/Users/Administrator/AppData/Local/Python/bin"
+        - "D:\\Microsoft VS Code\\bin"
+        - "D:/SnapAny/bin"
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:/Program Files/MySQL/MySQL Server 8.0/bin"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/RemoteSensingQtStarter"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/msys64/ucrt64"
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/msys64/ucrt64"
+        - "C:/Program Files (x86)/RemoteSensingQtStarter"
+  -
+    kind: "find_package-v1"
+    backtrace:
+      - "C:/msys64/ucrt64/lib/cmake/Qt6/Qt6Config.cmake:246 (find_package)"
+      - "CMakeLists.txt:13 (find_package)"
+    name: "Qt6OpenGLWidgets"
+    configs:
+      -
+        filename: "Qt6OpenGLWidgets.cps"
+        kind: "cps"
+      -
+        filename: "qt6openglwidgets.cps"
+        kind: "cps"
+      -
+        filename: "Qt6OpenGLWidgetsConfig.cmake"
+        kind: "cmake"
+      -
+        filename: "qt6openglwidgets-config.cmake"
+        kind: "cmake"
+    version_request:
+      exact: false
+    settings:
+      required: "optional"
+      quiet: false
+      global: false
+      policy_scope: true
+      bypass_provider: false
+      names:
+        - "Qt6OpenGLWidgets"
+      search_paths:
+        - "C:/msys64/ucrt64/lib/cmake"
+      path_suffixes:
+        - ""
+      paths:
+        CMAKE_FIND_USE_CMAKE_PATH: false
+        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+        CMAKE_FIND_USE_INSTALL_PREFIX: true
+        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
+        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
+        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
+        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
+    candidates:
+      -
+        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/Qt6OpenGLWidgetsConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/qt6openglwidgets-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/lib/cps/Qt6OpenGLWidgets.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/lib/cps/qt6openglwidgets.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/share/cps/Qt6OpenGLWidgets.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/pkgRedirects/share/cps/qt6openglwidgets.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/msys64/ucrt64/lib/cmake/Qt6OpenGLWidgetsConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/msys64/ucrt64/lib/cmake/qt6openglwidgets-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+    found:
+      path: "C:/msys64/ucrt64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsConfig.cmake"
+      mode: "config"
+      version: "6.11.0"
+    search_context:
+      CMAKE_PREFIX_PATH:
+        - "C:/msys64/ucrt64"
+      ENV{PATH}:
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:\\msys64\\usr\\bin"
+        - "C:/Windows/system32"
+        - "C:\\Windows"
+        - "C:/Windows/System32/Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:/Windows/System32/OpenSSH/"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+        - "D:\\Git\\cmd"
+        - "D:/Python/Scripts/"
+        - "D:\\Python\\"
+        - "C:/Users/Administrator/AppData/Local/Programs/Python/Launcher/"
+        - "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:/Users/Administrator/AppData/Local/Python/bin"
+        - "D:\\Microsoft VS Code\\bin"
+        - "D:/SnapAny/bin"
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:/Program Files/MySQL/MySQL Server 8.0/bin"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/RemoteSensingQtStarter"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/msys64/ucrt64"
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/msys64/ucrt64"
+        - "C:/Program Files (x86)/RemoteSensingQtStarter"
+  -
+    kind: "find_package-v1"
+    backtrace:
+      - "CMakeLists.txt:13 (find_package)"
     name: "Qt6"
     components:
       -
+        name: "Core"
+        required: true
+        found: false
+      -
         name: "Widgets"
+        required: true
+        found: false
+      -
+        name: "OpenGLWidgets"
         required: true
         found: false
     configs:
@@ -3286,8 +3518,8 @@ events:
     version_request:
       exact: false
     settings:
-      required: "optional"
-      quiet: true
+      required: "required_explicit"
+      quiet: false
       global: false
       policy_scope: true
       bypass_provider: false
@@ -3773,7 +4005,7 @@ events:
   -
     kind: "find_package-v1"
     backtrace:
-      - "CMakeLists.txt:20 (find_package)"
+      - "CMakeLists.txt:16 (find_package)"
     name: "OpenCV"
     components:
       -
@@ -3792,6 +4024,10 @@ events:
         name: "calib3d"
         required: true
         found: true
+      -
+        name: "stitching"
+        required: true
+        found: true
     configs:
       -
         filename: "OpenCV.cps"
@@ -3808,8 +4044,8 @@ events:
     version_request:
       exact: false
     settings:
-      required: "optional"
-      quiet: true
+      required: "required_explicit"
+      quiet: false
       global: false
       policy_scope: true
       bypass_provider: false
@@ -3920,7 +4156,7 @@ events:
     kind: "find-v1"
     backtrace:
       - "C:/msys64/ucrt64/share/cmake/Modules/FindGDAL.cmake:109 (find_path)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:17 (find_package)"
     mode: "path"
     variable: "GDAL_INCLUDE_DIR"
     description: "Path to the GDAL include directory"
@@ -4080,7 +4316,7 @@ events:
     kind: "find-v1"
     backtrace:
       - "C:/msys64/ucrt64/share/cmake/Modules/FindGDAL.cmake:196 (find_library)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:17 (find_package)"
     mode: "library"
     variable: "GDAL_LIBRARY"
     description: "Path to the GDAL library"

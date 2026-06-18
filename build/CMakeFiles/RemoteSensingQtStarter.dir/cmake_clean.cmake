@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/RemoteSensingQtStarter.dir/RemoteSensingQtStarter_autogen/mocs_compilation.cpp.obj.d"
   "CMakeFiles/RemoteSensingQtStarter.dir/src/Algorithms.cpp.obj"
   "CMakeFiles/RemoteSensingQtStarter.dir/src/Algorithms.cpp.obj.d"
+  "CMakeFiles/RemoteSensingQtStarter.dir/src/GLWidget3D.cpp.obj"
+  "CMakeFiles/RemoteSensingQtStarter.dir/src/GLWidget3D.cpp.obj.d"
   "CMakeFiles/RemoteSensingQtStarter.dir/src/MainWindow.cpp.obj"
   "CMakeFiles/RemoteSensingQtStarter.dir/src/MainWindow.cpp.obj.d"
   "CMakeFiles/RemoteSensingQtStarter.dir/src/RasterIO.cpp.obj"

@@ -168,6 +168,21 @@ CMakeFiles/RemoteSensingQtStarter.dir/src/RasterRenderDialog.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RemoteSensingQtStarter.dir/src/RasterRenderDialog.cpp.s"
 	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Vscode_doc\Teamwork_rs\RemoteSensingQtStarter\src\RasterRenderDialog.cpp -o CMakeFiles\RemoteSensingQtStarter.dir\src\RasterRenderDialog.cpp.s
 
+CMakeFiles/RemoteSensingQtStarter.dir/src/GLWidget3D.cpp.obj: CMakeFiles/RemoteSensingQtStarter.dir/flags.make
+CMakeFiles/RemoteSensingQtStarter.dir/src/GLWidget3D.cpp.obj: CMakeFiles/RemoteSensingQtStarter.dir/includes_CXX.rsp
+CMakeFiles/RemoteSensingQtStarter.dir/src/GLWidget3D.cpp.obj: D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/src/GLWidget3D.cpp
+CMakeFiles/RemoteSensingQtStarter.dir/src/GLWidget3D.cpp.obj: CMakeFiles/RemoteSensingQtStarter.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Vscode_doc\Teamwork_rs\RemoteSensingQtStarter\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/RemoteSensingQtStarter.dir/src/GLWidget3D.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RemoteSensingQtStarter.dir/src/GLWidget3D.cpp.obj -MF CMakeFiles\RemoteSensingQtStarter.dir\src\GLWidget3D.cpp.obj.d -o CMakeFiles\RemoteSensingQtStarter.dir\src\GLWidget3D.cpp.obj -c D:\Vscode_doc\Teamwork_rs\RemoteSensingQtStarter\src\GLWidget3D.cpp
+
+CMakeFiles/RemoteSensingQtStarter.dir/src/GLWidget3D.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RemoteSensingQtStarter.dir/src/GLWidget3D.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Vscode_doc\Teamwork_rs\RemoteSensingQtStarter\src\GLWidget3D.cpp > CMakeFiles\RemoteSensingQtStarter.dir\src\GLWidget3D.cpp.i
+
+CMakeFiles/RemoteSensingQtStarter.dir/src/GLWidget3D.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RemoteSensingQtStarter.dir/src/GLWidget3D.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Vscode_doc\Teamwork_rs\RemoteSensingQtStarter\src\GLWidget3D.cpp -o CMakeFiles\RemoteSensingQtStarter.dir\src\GLWidget3D.cpp.s
+
 # Object files for target RemoteSensingQtStarter
 RemoteSensingQtStarter_OBJECTS = \
 "CMakeFiles/RemoteSensingQtStarter.dir/RemoteSensingQtStarter_autogen/mocs_compilation.cpp.obj" \
@@ -175,7 +190,8 @@ RemoteSensingQtStarter_OBJECTS = \
 "CMakeFiles/RemoteSensingQtStarter.dir/src/MainWindow.cpp.obj" \
 "CMakeFiles/RemoteSensingQtStarter.dir/src/Algorithms.cpp.obj" \
 "CMakeFiles/RemoteSensingQtStarter.dir/src/RasterIO.cpp.obj" \
-"CMakeFiles/RemoteSensingQtStarter.dir/src/RasterRenderDialog.cpp.obj"
+"CMakeFiles/RemoteSensingQtStarter.dir/src/RasterRenderDialog.cpp.obj" \
+"CMakeFiles/RemoteSensingQtStarter.dir/src/GLWidget3D.cpp.obj"
 
 # External object files for target RemoteSensingQtStarter
 RemoteSensingQtStarter_EXTERNAL_OBJECTS =
@@ -186,13 +202,20 @@ RemoteSensingQtStarter.exe: CMakeFiles/RemoteSensingQtStarter.dir/src/MainWindow
 RemoteSensingQtStarter.exe: CMakeFiles/RemoteSensingQtStarter.dir/src/Algorithms.cpp.obj
 RemoteSensingQtStarter.exe: CMakeFiles/RemoteSensingQtStarter.dir/src/RasterIO.cpp.obj
 RemoteSensingQtStarter.exe: CMakeFiles/RemoteSensingQtStarter.dir/src/RasterRenderDialog.cpp.obj
+RemoteSensingQtStarter.exe: CMakeFiles/RemoteSensingQtStarter.dir/src/GLWidget3D.cpp.obj
 RemoteSensingQtStarter.exe: CMakeFiles/RemoteSensingQtStarter.dir/build.make
-RemoteSensingQtStarter.exe: C:/msys64/ucrt64/lib/libQt6Widgets.dll.a
-RemoteSensingQtStarter.exe: C:/msys64/ucrt64/lib/libopencv_calib3d.dll.a
+RemoteSensingQtStarter.exe: C:/msys64/ucrt64/lib/libQt6OpenGLWidgets.dll.a
+RemoteSensingQtStarter.exe: C:/msys64/ucrt64/lib/libopencv_stitching.dll.a
 RemoteSensingQtStarter.exe: C:/msys64/ucrt64/lib/libgdal.dll.a
+RemoteSensingQtStarter.exe: C:/msys64/ucrt64/lib/libQt6Widgets.dll.a
+RemoteSensingQtStarter.exe: C:/msys64/ucrt64/lib/libQt6OpenGL.dll.a
 RemoteSensingQtStarter.exe: C:/msys64/ucrt64/lib/libQt6Gui.dll.a
 RemoteSensingQtStarter.exe: C:/msys64/ucrt64/lib/libQt6Core.dll.a
 RemoteSensingQtStarter.exe: C:/msys64/ucrt64/lib/libQt6EntryPoint.a
+RemoteSensingQtStarter.exe: C:/msys64/ucrt64/lib/libopencv_xfeatures2d.dll.a
+RemoteSensingQtStarter.exe: C:/msys64/ucrt64/lib/libopencv_ml.dll.a
+RemoteSensingQtStarter.exe: C:/msys64/ucrt64/lib/libopencv_shape.dll.a
+RemoteSensingQtStarter.exe: C:/msys64/ucrt64/lib/libopencv_calib3d.dll.a
 RemoteSensingQtStarter.exe: C:/msys64/ucrt64/lib/libopencv_features2d.dll.a
 RemoteSensingQtStarter.exe: C:/msys64/ucrt64/lib/libopencv_imgproc.dll.a
 RemoteSensingQtStarter.exe: C:/msys64/ucrt64/lib/libopencv_flann.dll.a
@@ -200,7 +223,7 @@ RemoteSensingQtStarter.exe: C:/msys64/ucrt64/lib/libopencv_core.dll.a
 RemoteSensingQtStarter.exe: CMakeFiles/RemoteSensingQtStarter.dir/linkLibs.rsp
 RemoteSensingQtStarter.exe: CMakeFiles/RemoteSensingQtStarter.dir/objects1.rsp
 RemoteSensingQtStarter.exe: CMakeFiles/RemoteSensingQtStarter.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\Vscode_doc\Teamwork_rs\RemoteSensingQtStarter\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable RemoteSensingQtStarter.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\Vscode_doc\Teamwork_rs\RemoteSensingQtStarter\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable RemoteSensingQtStarter.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\RemoteSensingQtStarter.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

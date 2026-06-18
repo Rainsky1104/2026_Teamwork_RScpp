@@ -202,6 +202,30 @@ src/Algorithms.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\RemoteSensingQtStarter.dir\build.make CMakeFiles/RemoteSensingQtStarter.dir/src/Algorithms.cpp.s
 .PHONY : src/Algorithms.cpp.s
 
+src/GLWidget3D.obj: src/GLWidget3D.cpp.obj
+.PHONY : src/GLWidget3D.obj
+
+# target to build an object file
+src/GLWidget3D.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RemoteSensingQtStarter.dir\build.make CMakeFiles/RemoteSensingQtStarter.dir/src/GLWidget3D.cpp.obj
+.PHONY : src/GLWidget3D.cpp.obj
+
+src/GLWidget3D.i: src/GLWidget3D.cpp.i
+.PHONY : src/GLWidget3D.i
+
+# target to preprocess a source file
+src/GLWidget3D.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RemoteSensingQtStarter.dir\build.make CMakeFiles/RemoteSensingQtStarter.dir/src/GLWidget3D.cpp.i
+.PHONY : src/GLWidget3D.cpp.i
+
+src/GLWidget3D.s: src/GLWidget3D.cpp.s
+.PHONY : src/GLWidget3D.s
+
+# target to generate assembly for a file
+src/GLWidget3D.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RemoteSensingQtStarter.dir\build.make CMakeFiles/RemoteSensingQtStarter.dir/src/GLWidget3D.cpp.s
+.PHONY : src/GLWidget3D.cpp.s
+
 src/MainWindow.obj: src/MainWindow.cpp.obj
 .PHONY : src/MainWindow.obj
 
@@ -315,6 +339,9 @@ help:
 	@echo ... src/Algorithms.obj
 	@echo ... src/Algorithms.i
 	@echo ... src/Algorithms.s
+	@echo ... src/GLWidget3D.obj
+	@echo ... src/GLWidget3D.i
+	@echo ... src/GLWidget3D.s
 	@echo ... src/MainWindow.obj
 	@echo ... src/MainWindow.i
 	@echo ... src/MainWindow.s

@@ -11,6 +11,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "" "RemoteSensingQtStarter_autogen/timestamp" "custom" "RemoteSensingQtStarter_autogen/deps"
   "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/RemoteSensingQtStarter_autogen/mocs_compilation.cpp" "CMakeFiles/RemoteSensingQtStarter.dir/RemoteSensingQtStarter_autogen/mocs_compilation.cpp.obj" "gcc" "CMakeFiles/RemoteSensingQtStarter.dir/RemoteSensingQtStarter_autogen/mocs_compilation.cpp.obj.d"
   "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/src/Algorithms.cpp" "CMakeFiles/RemoteSensingQtStarter.dir/src/Algorithms.cpp.obj" "gcc" "CMakeFiles/RemoteSensingQtStarter.dir/src/Algorithms.cpp.obj.d"
+  "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/src/GLWidget3D.cpp" "CMakeFiles/RemoteSensingQtStarter.dir/src/GLWidget3D.cpp.obj" "gcc" "CMakeFiles/RemoteSensingQtStarter.dir/src/GLWidget3D.cpp.obj.d"
   "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/src/MainWindow.cpp" "CMakeFiles/RemoteSensingQtStarter.dir/src/MainWindow.cpp.obj" "gcc" "CMakeFiles/RemoteSensingQtStarter.dir/src/MainWindow.cpp.obj.d"
   "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/src/RasterIO.cpp" "CMakeFiles/RemoteSensingQtStarter.dir/src/RasterIO.cpp.obj" "gcc" "CMakeFiles/RemoteSensingQtStarter.dir/src/RasterIO.cpp.obj.d"
   "D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/src/RasterRenderDialog.cpp" "CMakeFiles/RemoteSensingQtStarter.dir/src/RasterRenderDialog.cpp.obj" "gcc" "CMakeFiles/RemoteSensingQtStarter.dir/src/RasterRenderDialog.cpp.obj.d"
