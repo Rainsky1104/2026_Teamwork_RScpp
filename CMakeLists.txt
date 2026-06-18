@@ -10,13 +10,7 @@ set(CMAKE_AUTOUIC ON)
 set(CMAKE_AUTORCC ON)
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
-find_package(Qt6 COMPONENTS Widgets QUIET)
-if(Qt6_FOUND)
-    set(QT_PACKAGE Qt6)
-else()
-    find_package(Qt5 REQUIRED COMPONENTS Widgets)
-    set(QT_PACKAGE Qt5)
-endif()
+find_package(Qt6 REQUIRED COMPONENTS Core Widgets OpenGLWidgets)
 
 # 关键修改：OpenCV 设为 REQUIRED，并添加 stitching 组件
 find_package(OpenCV REQUIRED COMPONENTS core imgproc features2d calib3d stitching)
@@ -28,6 +22,7 @@ add_executable(RemoteSensingQtStarter WIN32
     src/Algorithms.cpp
     src/RasterIO.cpp
     src/RasterRenderDialog.cpp
+    src/GLWidget3D.cpp
     include/rs/DataObject.h
     include/rs/Geometry.h
     include/rs/LayerManager.h
@@ -36,10 +31,17 @@ add_executable(RemoteSensingQtStarter WIN32
     include/rs/RasterIO.h
     include/rs/RasterRenderDialog.h
     include/rs/MainWindow.h
+    include/rs/GLWidget3D.h
 )
 
 target_include_directories(RemoteSensingQtStarter PRIVATE include)
-target_link_libraries(RemoteSensingQtStarter PRIVATE ${QT_PACKAGE}::Widgets)
+target_link_libraries(RemoteSensingQtStarter PRIVATE
+    Qt6::Core
+    Qt6::Widgets
+    Qt6::OpenGLWidgets
+    ${OpenCV_LIBS}
+    opengl32
+)
 
 # OpenCV 链接（会自动包含所有已找到的组件库）
 if(OpenCV_FOUND)

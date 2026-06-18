@@ -2,6 +2,7 @@
 
 #include "rs/ProcessingAlgorithm.h"
 
+#include <QString>
 #include <memory>
 
 namespace rs {

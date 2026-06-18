@@ -6,6 +6,7 @@
 #include "rs/ProcessingAlgorithm.h"
 #include "rs/RasterIO.h"
 #include "rs/RasterRenderDialog.h"
+#include "rs/GLWidget3D.h"
 
 #include <QAction>
 #include <QGraphicsScene>
@@ -90,6 +91,8 @@ private slots:
     void onSelectionChanged();
     void onLayerItemChanged(QTreeWidgetItem* item, int column);
     void showLayerContextMenu(const QPoint& position);
+    void saveProject();
+    void loadProject();
 
     // 扩展功能槽函数
     void runNdvi();
@@ -106,6 +109,10 @@ private:
     void displayRaster(const std::shared_ptr<RasterLayer>& raster, int bandIndex);
     void appendLog(const QString& text);
     void updateActionStates();
+    GLWidget3D* m_glWidget = nullptr;
+    void openPointCloud(const QString& path);
+    void openMesh(const QString& path);
+    void openDem(const QString& path);
 
     std::vector<int> selectedLayerIndices() const;
     std::shared_ptr<RasterLayer> selectedRaster() const;
