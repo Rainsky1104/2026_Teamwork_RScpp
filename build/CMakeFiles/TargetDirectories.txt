@@ -1,5 +1,0 @@
-D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/RemoteSensingQtStarter.dir
-D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/edit_cache.dir
-D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/rebuild_cache.dir
-D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/RemoteSensingQtStarter_autogen_timestamp_deps.dir
-D:/Vscode_doc/Teamwork_rs/RemoteSensingQtStarter/build/CMakeFiles/RemoteSensingQtStarter_autogen.dir
